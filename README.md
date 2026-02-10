@@ -24,10 +24,6 @@
 <!-- ABOUT ME -->
 ## ⚡ `> whoami`
 
-<table>
-<tr>
-<td width="60%">
-
 ```typescript
 const developer = {
     name: "Shreyas Suvarna",
@@ -58,15 +54,6 @@ const developer = {
     philosophy: "Building AI that explains itself 🧠"
 };
 ```
-
-</td>
-<td width="40%" align="center">
-
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
