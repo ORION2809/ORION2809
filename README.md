@@ -22,38 +22,71 @@
 ---
 
 <!-- ABOUT ME -->
+<div align="center">
+
 ## ⚡ `> whoami`
 
-```typescript
-const developer = {
-    name: "Shreyas Suvarna",
-    role: "AI/ML Engineer & Full-Stack Developer",
-    location: "India 🇮🇳",
-    
-    expertise: [
-        "Explainable AI (XAI)",
-        "Computer Vision", 
-        "NLP & NER",
-        "Time-Series Analysis",
-        "3D Web Graphics"
-    ],
-    
-    currentFocus: [
-        "Healthcare AI Systems",
-        "Aquaculture Intelligence",
-        "Legal Tech NLP"
-    ],
-    
-    architectures: [
-        "Ensemble Learning",
-        "Transformer Models",
-        "Expert Systems",
-        "Neural Networks"
-    ],
-    
-    philosophy: "Building AI that explains itself 🧠"
-};
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+cat+developer.json;Loading+profile...;Access+granted+%E2%9C%93" alt="Terminal" />
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```js
+{
+  "name": "Shreyas Suvarna",
+  "title": "AI/ML Engineer",
+  "location": "India 🇮🇳",
+  "status": "Building the future"
+}
 ```
+
+</td>
+<td>
+
+| 🎯 | Core Skills |
+|:--:|:--|
+| 🧠 | Explainable AI (XAI) |
+| 👁️ | Computer Vision |
+| 📝 | NLP & NER |
+| 📈 | Time-Series Analysis |
+| 🌐 | 3D Web Graphics |
+
+</td>
+<td>
+
+| 🔥 | Current Focus |
+|:--:|:--|
+| 🏥 | Healthcare AI |
+| 🐟 | Aquaculture Intelligence |
+| ⚖️ | Legal Tech NLP |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   🏗️  ARCHITECTURES         🔧  TOOLS              📊  DOMAINS              ║
+║   ─────────────────         ─────────              ───────────               ║
+║   ▸ Ensemble Learning       ▸ Python/TS           ▸ Healthcare AI           ║
+║   ▸ Transformer Models      ▸ TensorFlow          ▸ AgriTech                ║
+║   ▸ Expert Systems          ▸ Three.js            ▸ Legal NLP               ║
+║   ▸ Neural Networks         ▸ FastAPI             ▸ 3D Visualization        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/💡_Philosophy-Building_AI_that_explains_itself-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 
 ---
 
