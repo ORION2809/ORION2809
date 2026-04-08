@@ -1,27 +1,42 @@
 <div align="center">
 
-<img src="assets/orion-command-deck.svg" alt="ORION2809 neon command deck hero" width="100%" />
+<img src="assets/orion-hero-v2.svg" alt="ORION2809 cinematic command deck hero" width="100%" />
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2600&pause=650&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=AGENTIC+DEVTOOLS+%2F%2F+AI+WORKFLOW+SYSTEMS;RUST+CLIS+%2F%2F+MCP+SERVERS+%2F%2F+PLAYWRIGHT+AUTOMATION;CAREER+OPS+%2F%2F+MENTAL+MODEL+DIAGNOSTICS+%2F%2F+FULCRUM" alt="Animated typing banner for ORION2809" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2400&pause=600&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=%E2%96%B8+AGENTIC+DEVTOOLS+%2F%2F+AI+WORKFLOW+SYSTEMS;%E2%96%B8+RUST+CLIS+%2F%2F+MCP+SERVERS+%2F%2F+PLAYWRIGHT+VALIDATION;%E2%96%B8+CAREER+OPS+%2F%2F+MENTAL+MODEL+DIAGNOSTICS+%2F%2F+FULCRUM" alt="Animated typing banner for ORION2809" />
 </a>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ORION2809&style=for-the-badge&color=22c55e&label=PROFILE+SCANS" alt="Profile view counter" />
+&nbsp;
 <a href="https://github.com/ORION2809?tab=followers">
   <img src="https://img.shields.io/github/followers/ORION2809?style=for-the-badge&logo=github&color=0f172a&labelColor=020617&label=FOLLOWERS" alt="GitHub followers" />
 </a>
+&nbsp;
 <img src="https://img.shields.io/badge/BUILDING-AGENTIC_SYSTEMS-22C55E?style=for-the-badge&labelColor=020617" alt="Building agentic systems" />
+&nbsp;
 <img src="https://img.shields.io/badge/MODE-NEON_SHIPPER-06B6D4?style=for-the-badge&labelColor=020617" alt="Neon shipper mode" />
+&nbsp;
+<img src="https://img.shields.io/badge/STACK-MULTI_RUNTIME-8B5CF6?style=for-the-badge&labelColor=020617" alt="Multi-runtime stack" />
 
 </div>
 
----
+<br>
 
-## Control Signal
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="42%" valign="top">
+
+### `> whoami`
 
 ```json
 {
@@ -29,27 +44,26 @@
   "handle": "ORION2809",
   "mode": "agentic systems lab",
   "base": "India",
-  "loop": "research -> build -> validate -> ship"
+  "loop": "research → build → validate → ship → compound"
 }
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</td>
+<td width="29%" valign="top">
 
-### Current Vector
+### `> current_vector`
 
 | Lane | Signal |
 |:--|:--|
-| Agentic DevTools | CLIs, skills, workflows |
-| AI Orchestration | MCP, swarms, evaluators |
-| Product Systems | Career ops, onboarding |
-| Learning Tech | Mental-model diagnostics |
+| 🔧 Agentic DevTools | CLIs, skills, workflows |
+| 🤖 AI Orchestration | MCP, swarms, evaluators |
+| 📦 Product Systems | Career ops, onboarding |
+| 🧠 Learning Tech | Mental-model diagnostics |
 
 </td>
-<td width="50%" valign="top">
+<td width="29%" valign="top">
 
-### Ship Style
+### `> ship_style`
 
 | Bias | Output |
 |:--|:--|
@@ -62,15 +76,33 @@
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
 <div align="center">
 
 <img src="assets/orion-project-constellation.svg" alt="ORION2809 project constellation map" width="100%" />
 
 </div>
 
----
+<br>
 
-## Latest Launch Bay
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+
+## ⚡ Latest Launch Bay
+
+<sub>Active projects in the agentic pipeline — each one ships with browser-proof validation</sub>
+
+</div>
 
 <table>
 <tr>
@@ -219,9 +251,23 @@
 </tr>
 </table>
 
----
+<br>
 
-## System Map
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+## 🗺️ System Map
+
+<sub>No vibes-only shipping — plan, build, test in a browser, fold the pattern back into the stack</sub>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -229,66 +275,82 @@
 
 </div>
 
-| Phase | Proof | Project Signal |
-|:--|:--|:--|
-| Research signals | Capture the rough problem and weird edge cases | Career-Ops, Prove-It-Mode |
-| Typed plan | Force the handoff into contracts | Agentic Orchestration Engine |
-| Agentic build loop | Ship with tools, agents, and memory | Claw Code, Claude Fulcrum |
-| Browser validation | Let Playwright call the bluff | AI Onboarding Orchestrator |
-| Reusable system | Fold the pattern back into the stack | Fulcrum skills, MCPs, CLIs |
-
----
-
-## Stack Radar
+<br>
 
 <table>
 <tr>
-<td width="25%" valign="top">
-
-### AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-22C55E?style=for-the-badge&labelColor=020617)
-
-</td>
-<td width="25%" valign="top">
-
-### Runtime
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-020617?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-020617?style=for-the-badge&logo=three.js&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-### Proof
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&labelColor=020617)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-</td>
+<th>Phase</th>
+<th>Proof</th>
+<th>Project Signal</th>
+</tr>
+<tr>
+<td>🔍 Research signals</td>
+<td>Capture the rough problem and weird edge cases</td>
+<td><b>Career-Ops</b>, <b>Prove-It-Mode</b></td>
+</tr>
+<tr>
+<td>📝 Typed plan</td>
+<td>Force the handoff into contracts</td>
+<td><b>Agentic Orchestration Engine</b></td>
+</tr>
+<tr>
+<td>🤖 Agentic build loop</td>
+<td>Ship with tools, agents, and memory</td>
+<td><b>Claw Code</b>, <b>Claude Fulcrum</b></td>
+</tr>
+<tr>
+<td>🌐 Browser validation</td>
+<td>Let Playwright call the bluff</td>
+<td><b>AI Onboarding Orchestrator</b></td>
+</tr>
+<tr>
+<td>♻️ Reusable system</td>
+<td>Fold the pattern back into the stack</td>
+<td><b>Fulcrum skills</b>, <b>MCPs</b>, <b>CLIs</b></td>
 </tr>
 </table>
 
----
+<br>
 
-## Telemetry
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+## 📡 Stack Radar
+
+<sub>Multi-runtime competency map — hover over the radar to explore</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="assets/orion-tech-radar.svg" alt="ORION2809 animated tech stack radar" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 Telemetry
+
+<sub>Real-time signal from the contribution graph</sub>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -305,36 +367,83 @@
 
 </div>
 
----
+<br>
 
-## Older Signal Archive
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
 
-| Project | What it proved |
-|:--|:--|
-| [XAI Tachycardia](https://github.com/ORION2809/XAI_Tachycardia-) | Explainable cardiac-event detection with SHAP/LIME thinking |
-| [Aquaculture AI](https://github.com/ORION2809/aquaculture_ai) | Farm intelligence, predictive signals, and recommendation engines |
-| [3D Object View](https://github.com/ORION2809/3D_OBJECT_VIEW) | Browser-based 3D interaction experiments |
-| [Aqua Web 3D](https://github.com/ORION2809/aqua_web_3d) | Immersive aquaculture web experience |
-| [RLRAG](https://github.com/ORION2809/RLRAG-Cost-Aware-Retrieval-Depth-Control-for-Production-RAG) | Cost-aware retrieval-depth control for production RAG |
-
----
+<br>
 
 <div align="center">
 
-### Ship the loop. Prove the loop. Make the loop remember.
+## 🗄️ Signal Archive
+
+<sub>Earlier explorations that shaped the current stack</sub>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<th>Project</th>
+<th>What it proved</th>
+</tr>
+<tr>
+<td><a href="https://github.com/ORION2809/XAI_Tachycardia-"><b>XAI Tachycardia</b></a></td>
+<td>Explainable cardiac-event detection with SHAP/LIME thinking</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ORION2809/aquaculture_ai"><b>Aquaculture AI</b></a></td>
+<td>Farm intelligence, predictive signals, and recommendation engines</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ORION2809/3D_OBJECT_VIEW"><b>3D Object View</b></a></td>
+<td>Browser-based 3D interaction experiments</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ORION2809/aqua_web_3d"><b>Aqua Web 3D</b></a></td>
+<td>Immersive aquaculture web experience</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ORION2809/RLRAG-Cost-Aware-Retrieval-Depth-Control-for-Production-RAG"><b>RLRAG</b></a></td>
+<td>Cost-aware retrieval-depth control for production RAG</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="assets/orion-divider.svg" alt="" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="assets/orion-footer.svg" alt="Ship the loop. Prove the loop. Make the loop remember." width="100%" />
+
+<br>
 
 <a href="https://github.com/ORION2809">
   <img src="https://img.shields.io/badge/GitHub-ORION2809-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile" />
 </a>
+&nbsp;
 <a href="https://github.com/ORION2809/portfoliowebsite">
   <img src="https://img.shields.io/badge/Portfolio-Source_Repo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio source repository" />
 </a>
+&nbsp;
 <a href="https://github.com/ORION2809?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-Latest_Builds-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Latest repositories" />
 </a>
+&nbsp;
+<a href="https://github.com/ORION2809/claude-Fulcrum">
+  <img src="https://img.shields.io/badge/Fulcrum-122_Skills-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=020617" alt="Claude Fulcrum" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:22c55e&height=110&section=footer" width="100%" alt="Neon footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f766e,50:06b6d4,75:8b5cf6,100:22c55e&height=120&section=footer" width="100%" alt="Neon footer wave" />
 
 </div>

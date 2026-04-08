@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="ft-title">
+  <title id="ft-title">ORION2809 — Ship the loop. Prove the loop. Make the loop remember.</title>
+  <defs>
+    <linearGradient id="ftbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#02130c"/>
+    </linearGradient>
+    <linearGradient id="ftneon" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.35" stop-color="#06b6d4"/>
+      <stop offset="0.65" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="ftglow1" cx="30%" cy="50%" r="35%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ftglow2" cx="70%" cy="50%" r="35%">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="ftg" x="-15%" y="-40%" width="130%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .ftmono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .ftdisplay{font-family:Arial,Helvetica,sans-serif;font-weight:800;letter-spacing:3px}
+      .ftpulse{animation:ftpulse 2.8s ease-in-out infinite}
+      .ftdash{stroke-dasharray:6 10;animation:ftdash 6s linear infinite}
+      @keyframes ftpulse{0%,100%{opacity:.4}50%{opacity:1}}
+      @keyframes ftdash{to{stroke-dashoffset:-160}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="180" rx="22" fill="url(#ftbg)"/>
+  <rect width="1200" height="180" fill="url(#ftglow1)"/>
+  <rect width="1200" height="180" fill="url(#ftglow2)"/>
+
+  <!-- Top line -->
+  <line x1="80" y1="20" x2="1120" y2="20" stroke="url(#ftneon)" stroke-width="1" opacity="0.4"/>
+
+  <!-- Mantra -->
+  <g filter="url(#ftg)">
+    <text x="600" y="72" text-anchor="middle" class="ftdisplay" fill="url(#ftneon)" font-size="28">
+      SHIP THE LOOP. PROVE THE LOOP. MAKE THE LOOP REMEMBER.
+    </text>
+  </g>
+
+  <!-- Dots -->
+  <g opacity="0.6">
+    <circle cx="160" cy="70" r="2" fill="#22c55e" class="ftpulse"/>
+    <circle cx="430" cy="70" r="2" fill="#06b6d4" class="ftpulse" style="animation-delay:0.7s"/>
+    <circle cx="770" cy="70" r="2" fill="#8b5cf6" class="ftpulse" style="animation-delay:1.4s"/>
+    <circle cx="1040" cy="70" r="2" fill="#f97316" class="ftpulse" style="animation-delay:2.1s"/>
+  </g>
+
+  <!-- Connect links -->
+  <g transform="translate(250 100)">
+    <a href="https://github.com/ORION2809">
+      <rect width="160" height="38" rx="8" fill="#020617" stroke="#22c55e" stroke-opacity="0.6"/>
+      <text x="20" y="25" class="ftmono" fill="#bbf7d0" font-size="14">GitHub</text>
+      <text x="110" y="25" class="ftmono" fill="#22c55e" font-size="14">→</text>
+    </a>
+    <a href="https://github.com/ORION2809/portfoliowebsite">
+      <rect x="180" width="200" height="38" rx="8" fill="#020617" stroke="#06b6d4" stroke-opacity="0.6"/>
+      <text x="200" y="25" class="ftmono" fill="#cffafe" font-size="14">Portfolio</text>
+      <text x="350" y="25" class="ftmono" fill="#06b6d4" font-size="14">→</text>
+    </a>
+    <a href="https://github.com/ORION2809?tab=repositories">
+      <rect x="400" width="200" height="38" rx="8" fill="#020617" stroke="#f97316" stroke-opacity="0.6"/>
+      <text x="420" y="25" class="ftmono" fill="#fed7aa" font-size="14">All Repos</text>
+      <text x="570" y="25" class="ftmono" fill="#f97316" font-size="14">→</text>
+    </a>
+  </g>
+
+  <!-- Bottom decorative -->
+  <line class="ftdash" x1="80" y1="155" x2="1120" y2="155" stroke="url(#ftneon)" stroke-width="1" opacity="0.3"/>
+
+  <rect x="8" y="8" width="1184" height="164" rx="18" fill="none" stroke="url(#ftneon)" stroke-opacity="0.4" stroke-width="1.5"/>
+</svg>

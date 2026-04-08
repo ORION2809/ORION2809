@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">ORION2809 — Agentic Systems Lab</title>
+  <desc id="hero-desc">Cinematic neon command deck hero banner for Shreyas Suvarna, ORION2809.</desc>
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.3" stop-color="#050d1a"/>
+      <stop offset="0.6" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#02130c"/>
+    </linearGradient>
+    <linearGradient id="hneon" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.35" stop-color="#06b6d4"/>
+      <stop offset="0.7" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="hneon2" x1="0" x2="1">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="0.5" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <radialGradient id="hcore" cx="50%" cy="42%" r="55%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.18"/>
+      <stop offset="0.35" stop-color="#06b6d4" stop-opacity="0.10"/>
+      <stop offset="0.7" stop-color="#8b5cf6" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hspot1" cx="18%" cy="30%" r="28%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hspot2" cx="82%" cy="60%" r="30%">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hgrid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0 L0 0 0 48" fill="none" stroke="#22c55e" stroke-opacity="0.08" stroke-width="0.8"/>
+    </pattern>
+    <pattern id="hdots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.6" fill="#06b6d4" opacity="0.25"/>
+    </pattern>
+    <filter id="hglow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.77 0 0 0 0 0.37 0 0 0 0.9 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="htextglow" x="-15%" y="-30%" width="130%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.02 0 0 0 0 0.71 0 0 0 0 0.83 0 0 0 0.7 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="hglowOrange" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.98 0 0 0 0 0.45 0 0 0 0 0.09 0 0 0 0.6 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="hclip"><rect width="1200" height="500" rx="28"/></clipPath>
+    <style>
+      .hmono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .hdisplay{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:8px}
+      .hsub{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:4px}
+      .hscan{animation:hscan 6s linear infinite}
+      .hflicker{animation:hflicker 3.2s ease-in-out infinite alternate}
+      .horbit1{animation:horbit 18s linear infinite;transform-origin:960px 250px}
+      .horbit2{animation:horbit 24s linear infinite reverse;transform-origin:960px 250px}
+      .hpulse{animation:hpulse 3s ease-in-out infinite}
+      .hfloat1{animation:hfloat 4.5s ease-in-out infinite}
+      .hfloat2{animation:hfloat 5.8s ease-in-out infinite 1.2s}
+      .hfloat3{animation:hfloat 6.2s ease-in-out infinite 2.4s}
+      .hdash{stroke-dasharray:12 18;animation:hdash 8s linear infinite}
+      .hparticle{animation:hparticle 12s linear infinite}
+      @keyframes hscan{from{transform:translateY(-520px)}to{transform:translateY(520px)}}
+      @keyframes hflicker{0%,100%{opacity:1}35%{opacity:.88}50%{opacity:.72}65%{opacity:.94}}
+      @keyframes horbit{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+      @keyframes hpulse{0%,100%{opacity:.35;r:5}50%{opacity:1;r:8}}
+      @keyframes hfloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes hdash{to{stroke-dashoffset:-300}}
+      @keyframes hparticle{0%{transform:translateX(0) translateY(0);opacity:0}10%{opacity:.6}90%{opacity:.6}100%{transform:translateX(120px) translateY(-60px);opacity:0}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#hclip)">
+    <!-- Base layers -->
+    <rect width="1200" height="500" fill="url(#hbg)"/>
+    <rect width="1200" height="500" fill="url(#hgrid)"/>
+    <rect width="1200" height="500" fill="url(#hdots)"/>
+    <rect width="1200" height="500" fill="url(#hcore)"/>
+    <rect width="1200" height="500" fill="url(#hspot1)"/>
+    <rect width="1200" height="500" fill="url(#hspot2)"/>
+
+    <!-- Ambient wave lines -->
+    <g opacity="0.6">
+      <path d="M0 360 C180 300 340 400 520 330 S780 220 1000 270 S1150 340 1200 310" fill="none" stroke="#06b6d4" stroke-opacity="0.4" stroke-width="1.5"/>
+      <path d="M0 120 C160 170 320 60 520 130 S760 250 1000 160 S1140 80 1200 110" fill="none" stroke="#22c55e" stroke-opacity="0.35" stroke-width="1.5"/>
+      <path d="M0 440 C200 380 400 470 620 400 S880 310 1100 360 L1200 340" fill="none" stroke="#f97316" stroke-opacity="0.25" stroke-width="1.5"/>
+      <path d="M0 60 C240 100 420 20 600 80 S820 140 1000 90 L1200 70" fill="none" stroke="#8b5cf6" stroke-opacity="0.2" stroke-width="1"/>
+    </g>
+
+    <!-- Orbital system (right side) -->
+    <g class="horbit1" opacity="0.5">
+      <circle cx="960" cy="250" r="160" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-dasharray="6 14"/>
+      <circle cx="1120" cy="250" r="6" fill="#22c55e" opacity="0.9"/>
+      <circle cx="800" cy="250" r="4" fill="#06b6d4" opacity="0.7"/>
+    </g>
+    <g class="horbit2" opacity="0.35">
+      <circle cx="960" cy="250" r="110" fill="none" stroke="#06b6d4" stroke-width="1" stroke-dasharray="4 10"/>
+      <circle cx="1070" cy="250" r="5" fill="#f97316" opacity="0.8"/>
+      <circle cx="850" cy="250" r="3" fill="#8b5cf6" opacity="0.6"/>
+    </g>
+    <circle cx="960" cy="250" r="60" fill="none" stroke="#22c55e" stroke-opacity="0.15" stroke-width="0.8"/>
+    <circle cx="960" cy="250" r="14" fill="#020617" stroke="#22c55e" stroke-width="2" opacity="0.7"/>
+    <circle cx="960" cy="250" r="4" fill="#22c55e" opacity="0.9"/>
+
+    <!-- Floating particles -->
+    <g opacity="0.5">
+      <circle cx="120" cy="80" r="2" fill="#22c55e" class="hpulse"/>
+      <circle cx="340" cy="420" r="1.5" fill="#06b6d4" class="hpulse" style="animation-delay:0.8s"/>
+      <circle cx="560" cy="60" r="2" fill="#f97316" class="hpulse" style="animation-delay:1.6s"/>
+      <circle cx="780" cy="440" r="1.5" fill="#8b5cf6" class="hpulse" style="animation-delay:2.4s"/>
+      <circle cx="200" cy="300" r="1" fill="#22c55e" class="hpulse" style="animation-delay:0.4s"/>
+      <circle cx="450" cy="150" r="1.5" fill="#06b6d4" class="hpulse" style="animation-delay:1.2s"/>
+      <circle cx="700" cy="380" r="1" fill="#f97316" class="hpulse" style="animation-delay:2s"/>
+      <circle cx="1050" cy="100" r="2" fill="#22c55e" class="hpulse" style="animation-delay:0.6s"/>
+      <circle cx="1100" cy="400" r="1.5" fill="#06b6d4" class="hpulse" style="animation-delay:1.8s"/>
+    </g>
+
+    <!-- Status indicator top-left -->
+    <g filter="url(#htextglow)">
+      <circle cx="68" cy="52" r="5" fill="#22c55e" class="hpulse"/>
+      <text x="84" y="58" class="hmono" fill="#22c55e" font-size="16" opacity="0.9">SYSTEM LIVE // AGENTIC CORE ONLINE</text>
+    </g>
+
+    <!-- Main text block -->
+    <g filter="url(#hglow)">
+      <text x="60" y="170" class="hdisplay hflicker" fill="url(#hneon)" font-size="96">ORION</text>
+      <text x="540" y="170" class="hdisplay" fill="#f8fafc" font-size="96" opacity="0.15">2809</text>
+      <text x="542" y="170" class="hdisplay hflicker" fill="url(#hneon2)" font-size="96" style="animation-delay:1.5s">2809</text>
+    </g>
+
+    <g filter="url(#htextglow)">
+      <text x="64" y="222" class="hsub" fill="#e2e8f0" font-size="32">SHREYAS SUVARNA</text>
+    </g>
+
+    <!-- Tag line with bracket decoration -->
+    <line x1="60" y1="248" x2="480" y2="248" stroke="url(#hneon)" stroke-width="1.5" opacity="0.6"/>
+    <g filter="url(#htextglow)">
+      <text x="64" y="286" class="hmono" fill="#94a3b8" font-size="18">&gt; agentic systems lab</text>
+      <text x="64" y="316" class="hmono" fill="#64748b" font-size="15">research -&gt; build -&gt; validate -&gt; ship -&gt; compound</text>
+    </g>
+
+    <!-- Tech tags floating -->
+    <g class="hfloat1">
+      <rect x="60" y="350" width="108" height="36" rx="8" fill="#020617" fill-opacity="0.8" stroke="#22c55e" stroke-opacity="0.7"/>
+      <text x="80" y="374" class="hmono" fill="#bbf7d0" font-size="15">RUST CLI</text>
+    </g>
+    <g class="hfloat2">
+      <rect x="184" y="350" width="80" height="36" rx="8" fill="#020617" fill-opacity="0.8" stroke="#06b6d4" stroke-opacity="0.7"/>
+      <text x="200" y="374" class="hmono" fill="#cffafe" font-size="15">MCP</text>
+    </g>
+    <g class="hfloat3">
+      <rect x="280" y="350" width="148" height="36" rx="8" fill="#020617" fill-opacity="0.8" stroke="#8b5cf6" stroke-opacity="0.7"/>
+      <text x="296" y="374" class="hmono" fill="#ddd6fe" font-size="15">PLAYWRIGHT</text>
+    </g>
+    <g class="hfloat1" style="animation-delay:0.6s">
+      <rect x="444" y="350" width="164" height="36" rx="8" fill="#020617" fill-opacity="0.8" stroke="#f97316" stroke-opacity="0.7"/>
+      <text x="462" y="374" class="hmono" fill="#fed7aa" font-size="15">AI WORKFLOWS</text>
+    </g>
+    <g class="hfloat2" style="animation-delay:0.3s">
+      <rect x="624" y="350" width="130" height="36" rx="8" fill="#020617" fill-opacity="0.8" stroke="#22c55e" stroke-opacity="0.7"/>
+      <text x="642" y="374" class="hmono" fill="#bbf7d0" font-size="15">UX POLISH</text>
+    </g>
+
+    <!-- Mission queue panel (right) -->
+    <g transform="translate(815 50)">
+      <rect width="340" height="260" rx="16" fill="#020617" fill-opacity="0.82" stroke="#22c55e" stroke-opacity="0.5" stroke-width="1.5"/>
+      <rect width="340" height="40" rx="16" fill="#22c55e" fill-opacity="0.06"/>
+      <text x="20" y="28" class="hmono" fill="#22c55e" font-size="14" font-weight="bold">MISSION QUEUE</text>
+      <circle cx="310" cy="20" r="5" fill="#22c55e" class="hpulse"/>
+
+      <line x1="0" y1="40" x2="340" y2="40" stroke="#22c55e" stroke-opacity="0.2"/>
+
+      <text x="20" y="72" class="hmono" fill="#22c55e" font-size="13">01</text>
+      <text x="52" y="72" class="hmono" fill="#f8fafc" font-size="14">Career-Ops</text>
+      <rect x="220" y="58" width="60" height="20" rx="4" fill="#22c55e" fill-opacity="0.15"/>
+      <text x="232" y="73" class="hmono" fill="#22c55e" font-size="11">ACTIVE</text>
+
+      <text x="20" y="106" class="hmono" fill="#06b6d4" font-size="13">02</text>
+      <text x="52" y="106" class="hmono" fill="#f8fafc" font-size="14">Prove-It-Mode</text>
+      <rect x="220" y="92" width="60" height="20" rx="4" fill="#06b6d4" fill-opacity="0.15"/>
+      <text x="232" y="107" class="hmono" fill="#06b6d4" font-size="11">ACTIVE</text>
+
+      <text x="20" y="140" class="hmono" fill="#8b5cf6" font-size="13">03</text>
+      <text x="52" y="140" class="hmono" fill="#f8fafc" font-size="14">Claw Code</text>
+      <rect x="220" y="126" width="48" height="20" rx="4" fill="#8b5cf6" fill-opacity="0.15"/>
+      <text x="228" y="141" class="hmono" fill="#8b5cf6" font-size="11">RUST</text>
+
+      <text x="20" y="174" class="hmono" fill="#f97316" font-size="13">04</text>
+      <text x="52" y="174" class="hmono" fill="#f8fafc" font-size="14">Claude Fulcrum</text>
+      <rect x="220" y="160" width="72" height="20" rx="4" fill="#f97316" fill-opacity="0.15"/>
+      <text x="228" y="175" class="hmono" fill="#f97316" font-size="11">122 SKILLS</text>
+
+      <text x="20" y="208" class="hmono" fill="#22c55e" font-size="13">05</text>
+      <text x="52" y="208" class="hmono" fill="#f8fafc" font-size="14">Game Builder</text>
+      <rect x="220" y="194" width="48" height="20" rx="4" fill="#22c55e" fill-opacity="0.15"/>
+      <text x="230" y="209" class="hmono" fill="#22c55e" font-size="11">MCP</text>
+
+      <text x="20" y="242" class="hmono" fill="#06b6d4" font-size="13">06</text>
+      <text x="52" y="242" class="hmono" fill="#94a3b8" font-size="14">Onboarding Engine</text>
+      <rect x="220" y="228" width="60" height="20" rx="4" fill="#06b6d4" fill-opacity="0.15"/>
+      <text x="228" y="243" class="hmono" fill="#06b6d4" font-size="11">SAGAS</text>
+    </g>
+
+    <!-- Scan line -->
+    <g class="hscan" opacity="0.3">
+      <rect x="0" y="0" width="1200" height="4" fill="#22c55e" opacity="0.4"/>
+      <rect x="0" y="4" width="1200" height="50" fill="#22c55e" opacity="0.04"/>
+    </g>
+
+    <!-- Bottom status bar -->
+    <rect x="0" y="430" width="1200" height="70" fill="#020617" fill-opacity="0.6"/>
+    <line x1="0" y1="430" x2="1200" y2="430" stroke="url(#hneon)" stroke-width="1" opacity="0.4"/>
+    <text x="60" y="468" class="hmono" fill="#64748b" font-size="13">LOCATION: India  |  LOOP: research → build → validate → ship  |  STATUS: shipping</text>
+
+    <!-- Border -->
+    <rect x="8" y="8" width="1184" height="484" rx="24" fill="none" stroke="url(#hneon)" stroke-opacity="0.7" stroke-width="2"/>
+  </g>
+</svg>

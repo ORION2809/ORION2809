@@ -1,0 +1,27 @@
+{
+  "name": "orion2809-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README preview and validation harness.",
+  "main": "index.js",
+  "scripts": {
+    "build:preview": "node build-preview.js",
+    "test": "npm run build:preview && playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORION2809/ORION2809.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ORION2809/ORION2809/issues"
+  },
+  "homepage": "https://github.com/ORION2809/ORION2809#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "marked": "^18.0.0"
+  }
+}
