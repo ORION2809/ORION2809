@@ -21,11 +21,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="34%" valign="top">
-
-### CONTROL SIGNAL
+## Control Signal
 
 ```json
 {
@@ -37,10 +33,11 @@
 }
 ```
 
-</td>
-<td width="33%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### CURRENT VECTOR
+### Current Vector
 
 | Lane | Signal |
 |:--|:--|
@@ -50,9 +47,9 @@
 | Learning Tech | Mental-model diagnostics |
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### SHIP STYLE
+### Ship Style
 
 | Bias | Output |
 |:--|:--|
@@ -105,7 +102,7 @@
 ### Prove-It-Mode
 
 <a href="https://github.com/ORION2809/Prove-It-Mode">
-  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-prove-it-mode/ORION2809/Prove-It-Mode" width="100%" alt="Prove-It-Mode repository preview" />
+  <img src="assets/orion-prove-it-mode-card.svg" width="100%" alt="Prove-It-Mode neon repository preview" />
 </a>
 
 **Mental model stress tester**
@@ -226,27 +223,19 @@
 
 ## System Map
 
-```mermaid
-flowchart LR
-  A["Research<br/>signals"] --> B["Typed<br/>plan"]
-  B --> C["Agentic<br/>build loop"]
-  C --> D["Browser<br/>validation"]
-  D --> E["Polished<br/>ship"]
-  E --> F["Reusable<br/>system"]
-  F --> B
+<div align="center">
 
-  B --> G["Career-Ops"]
-  B --> H["Prove-It-Mode"]
-  C --> I["Claw Code"]
-  C --> J["Claude Fulcrum"]
-  D --> K["AI Onboarding"]
-  D --> L["Game Builder"]
+<img src="assets/orion-system-map.svg" alt="ORION2809 agentic system map from research to reusable systems" width="100%" />
 
-  classDef core fill:#020617,stroke:#22c55e,color:#f8fafc,stroke-width:2px;
-  classDef product fill:#0f172a,stroke:#06b6d4,color:#f8fafc,stroke-width:1px;
-  class A,B,C,D,E,F core;
-  class G,H,I,J,K,L product;
-```
+</div>
+
+| Phase | Proof | Project Signal |
+|:--|:--|:--|
+| Research signals | Capture the rough problem and weird edge cases | Career-Ops, Prove-It-Mode |
+| Typed plan | Force the handoff into contracts | Agentic Orchestration Engine |
+| Agentic build loop | Ship with tools, agents, and memory | Claw Code, Claude Fulcrum |
+| Browser validation | Let Playwright call the bluff | AI Onboarding Orchestrator |
+| Reusable system | Fold the pattern back into the stack | Fulcrum skills, MCPs, CLIs |
 
 ---
 

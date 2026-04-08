@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Prove-It-Mode neon project card</title>
+  <desc id="desc">A neon repository card for ORION2809 Prove-It-Mode, a mental model stress tester.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#052e16"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.55" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="core" cx="52%" cy="44%" r="52%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.45"/>
+      <stop offset="0.42" stop-color="#06b6d4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0 L0 0 0 52" fill="none" stroke="#22c55e" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-25%" y="-35%" width="150%" height="170%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.77 0 0 0 0 0.37 0 0 0 0.95 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+      .display { font-family: Arial, Helvetica, sans-serif; font-weight: 900; letter-spacing: 5px; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: 870px 300px; }
+      .scan { animation: scan 4.8s linear infinite; }
+      @keyframes pulse { 0%,100% { opacity:.38; transform: scale(.96); } 50% { opacity:1; transform: scale(1.04); } }
+      @keyframes scan { from { transform: translateY(-650px); } to { transform: translateY(650px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="630" rx="34" fill="url(#grid)"/>
+  <rect width="1200" height="630" rx="34" fill="url(#core)"/>
+
+  <g opacity="0.72">
+    <path d="M0 484 C210 398 380 520 566 418 S918 198 1200 252" fill="none" stroke="#06b6d4" stroke-width="3" stroke-opacity="0.52"/>
+    <path d="M0 142 C216 232 360 56 576 132 S914 346 1200 184" fill="none" stroke="#22c55e" stroke-width="2" stroke-opacity="0.44"/>
+    <path d="M0 564 C220 494 438 610 652 510 S976 414 1200 462" fill="none" stroke="#f97316" stroke-width="2" stroke-opacity="0.38"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="74" y="112" class="mono" fill="#22c55e" font-size="28">ORION2809 // LEARNING DIAGNOSTICS</text>
+    <text x="70" y="276" class="display" fill="url(#beam)" font-size="86">PROVE-IT</text>
+    <text x="76" y="358" class="display" fill="#f8fafc" font-size="54">MODE</text>
+    <text x="80" y="426" class="mono" fill="#d1fae5" font-size="28">mental model stress tester</text>
+  </g>
+
+  <g transform="translate(72 470)" class="mono" font-size="22">
+    <rect width="176" height="44" rx="8" fill="#020617" stroke="#22c55e"/>
+    <text x="22" y="30" fill="#bbf7d0">React</text>
+    <rect x="196" width="136" height="44" rx="8" fill="#020617" stroke="#06b6d4"/>
+    <text x="218" y="30" fill="#cffafe">Vite</text>
+    <rect x="352" width="178" height="44" rx="8" fill="#020617" stroke="#22c55e"/>
+    <text x="374" y="30" fill="#bbf7d0">Tailwind</text>
+    <rect x="550" width="150" height="44" rx="8" fill="#020617" stroke="#76b900"/>
+    <text x="572" y="30" fill="#d9f99d">NVIDIA</text>
+  </g>
+
+  <g transform="translate(780 125)">
+    <circle class="pulse" cx="105" cy="176" r="138" fill="none" stroke="#22c55e" stroke-width="3"/>
+    <circle class="pulse" cx="105" cy="176" r="96" fill="none" stroke="#06b6d4" stroke-width="2"/>
+    <circle cx="105" cy="176" r="55" fill="#020617" stroke="#f8fafc" stroke-width="2"/>
+    <path d="M105 32 L105 320 M-34 176 L244 176 M38 108 L172 244 M172 108 L38 244" stroke="url(#beam)" stroke-width="2" stroke-opacity="0.72"/>
+    <circle cx="105" cy="176" r="10" fill="#22c55e"/>
+    <text x="105" y="320" text-anchor="middle" class="mono" fill="#f8fafc" font-size="22">wrong answers exposed</text>
+  </g>
+
+  <g class="scan" opacity="0.34">
+    <rect x="0" y="0" width="1200" height="70" fill="#22c55e" opacity="0.08"/>
+    <line x1="0" y1="70" x2="1200" y2="70" stroke="#22c55e" stroke-width="2"/>
+  </g>
+
+  <rect x="18" y="18" width="1164" height="594" rx="26" fill="none" stroke="url(#beam)" stroke-width="3" stroke-opacity="0.82"/>
+</svg>
