@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 ### `> whoami`
 
@@ -49,7 +49,9 @@
 ```
 
 </td>
-<td width="29%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### `> current_vector`
 
@@ -61,7 +63,7 @@
 | 🧠 Learning Tech | Mental-model diagnostics |
 
 </td>
-<td width="29%" valign="top">
+<td width="50%" valign="top">
 
 ### `> ship_style`
 
