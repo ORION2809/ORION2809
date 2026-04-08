@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">ORION2809 neon command deck</title>
+  <desc id="desc">A cyberpunk command deck hero for Shreyas Suvarna, ORION2809, focused on agentic developer tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#071a2f"/>
+      <stop offset="1" stop-color="#02130c"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.5" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.35"/>
+      <stop offset="0.48" stop-color="#06b6d4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#22c55e" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-25%" y="-45%" width="150%" height="190%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.77 0 0 0 0 0.37 0 0 0 0.85 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+      .wide { font-family: Arial, Helvetica, sans-serif; font-weight: 900; letter-spacing: 7px; }
+      .scan { animation: scan 5.2s linear infinite; }
+      .flicker { animation: flicker 2.8s ease-in-out infinite alternate; }
+      .orbit { animation: orbit 14s linear infinite; transform-origin: 600px 214px; }
+      @keyframes scan { from { transform: translateY(-430px); } to { transform: translateY(430px); } }
+      @keyframes flicker { 0%, 100% { opacity: 1; } 42% { opacity: .82; } 47% { opacity: .98; } 52% { opacity: .72; } }
+      @keyframes orbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#pulse)"/>
+
+  <g opacity="0.78">
+    <path d="M0 315 C230 250 334 374 520 292 S850 163 1200 220" fill="none" stroke="#06b6d4" stroke-opacity="0.55" stroke-width="2"/>
+    <path d="M0 92 C190 138 366 38 568 94 S900 202 1200 116" fill="none" stroke="#22c55e" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M0 382 C240 330 402 406 620 346 S900 265 1200 324" fill="none" stroke="#f97316" stroke-opacity="0.38" stroke-width="2"/>
+  </g>
+
+  <g class="orbit" opacity="0.48">
+    <circle cx="600" cy="214" r="142" fill="none" stroke="#22c55e" stroke-width="1.5" stroke-dasharray="8 18"/>
+    <circle cx="742" cy="214" r="8" fill="#22c55e"/>
+    <circle cx="458" cy="214" r="5" fill="#06b6d4"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="60" y="132" class="mono" fill="#22c55e" font-size="22">SYSTEM ONLINE // ORION2809</text>
+    <text x="58" y="225" class="wide flicker" fill="url(#neon)" font-size="82">SHREYAS</text>
+    <text x="63" y="292" class="wide" fill="#f8fafc" font-size="42">AGENTIC SYSTEMS LAB</text>
+  </g>
+
+  <g class="mono" font-size="19" fill="#d1fae5">
+    <text x="67" y="350">RUST CLI</text>
+    <text x="188" y="350">MCP</text>
+    <text x="258" y="350">PLAYWRIGHT</text>
+    <text x="421" y="350">AI WORKFLOWS</text>
+    <text x="610" y="350">UX POLISH</text>
+  </g>
+
+  <g transform="translate(818 82)">
+    <rect width="316" height="226" rx="18" fill="#020617" fill-opacity="0.72" stroke="#22c55e" stroke-opacity="0.72"/>
+    <text x="24" y="42" class="mono" fill="#22c55e" font-size="18">MISSION QUEUE</text>
+    <text x="24" y="82" class="mono" fill="#f8fafc" font-size="16">01 Career-Ops</text>
+    <text x="24" y="114" class="mono" fill="#f8fafc" font-size="16">02 Prove-It-Mode</text>
+    <text x="24" y="146" class="mono" fill="#f8fafc" font-size="16">03 Claw Code</text>
+    <text x="24" y="178" class="mono" fill="#f8fafc" font-size="16">04 Claude Fulcrum</text>
+    <text x="24" y="210" class="mono" fill="#06b6d4" font-size="16">05 Game Builder</text>
+  </g>
+
+  <g class="scan" opacity="0.42">
+    <rect x="0" y="0" width="1200" height="58" fill="#22c55e" opacity="0.08"/>
+    <line x1="0" y1="58" x2="1200" y2="58" stroke="#22c55e" stroke-width="2"/>
+  </g>
+
+  <rect x="12" y="12" width="1176" height="406" rx="20" fill="none" stroke="url(#neon)" stroke-opacity="0.9" stroke-width="2"/>
+</svg>

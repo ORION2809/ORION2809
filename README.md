@@ -1,67 +1,65 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Shreyas%20Suvarna&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Architect&descAlign=50&descAlignY=52&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shreyas%20Suvarna&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Architect&descAlign=50&descAlignY=52&descSize=18">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shreyas%20Suvarna&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Architect&descAlign=50&descAlignY=52&descSize=18"/>
-</picture>
+<img src="assets/orion-command-deck.svg" alt="ORION2809 neon command deck hero" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+Future+with+AI+%F0%9F%A7%A0;Transforming+Healthcare+%7C+Aquaculture+%7C+NLP+%F0%9F%8C%8A;Where+Code+Meets+Innovation+%E2%9A%A1" alt="Typing SVG" /></a>
+<br>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=ORION2809&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
-<a href="https://github.com/ORION2809?tab=followers"><img src="https://img.shields.io/github/followers/ORION2809?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22&label=FOLLOWERS" /></a>
-<img src="https://img.shields.io/github/stars/ORION2809?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=0d1117&labelColor=161b22&label=TOTAL+STARS" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2600&pause=650&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=92&lines=AGENTIC+DEVTOOLS+%2F%2F+AI+WORKFLOW+SYSTEMS;RUST+CLIS+%2F%2F+MCP+SERVERS+%2F%2F+PLAYWRIGHT+AUTOMATION;CAREER+OPS+%2F%2F+MENTAL+MODEL+DIAGNOSTICS+%2F%2F+FULCRUM" alt="Animated typing banner for ORION2809" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ORION2809&style=for-the-badge&color=22c55e&label=PROFILE+SCANS" alt="Profile view counter" />
+<a href="https://github.com/ORION2809?tab=followers">
+  <img src="https://img.shields.io/github/followers/ORION2809?style=for-the-badge&logo=github&color=0f172a&labelColor=020617&label=FOLLOWERS" alt="GitHub followers" />
+</a>
+<img src="https://img.shields.io/badge/BUILDING-AGENTIC_SYSTEMS-22C55E?style=for-the-badge&labelColor=020617" alt="Building agentic systems" />
+<img src="https://img.shields.io/badge/MODE-NEON_SHIPPER-06B6D4?style=for-the-badge&labelColor=020617" alt="Neon shipper mode" />
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-<div align="center">
-
-## ⚡ `> whoami`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+cat+developer.json;Loading+profile...;Access+granted+%E2%9C%93" alt="Terminal" />
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td>
+<td width="34%" valign="top">
 
-```js
+### CONTROL SIGNAL
+
+```json
 {
   "name": "Shreyas Suvarna",
-  "title": "AI/ML Engineer",
-  "location": "India 🇮🇳",
-  "status": "Building the future"
+  "handle": "ORION2809",
+  "mode": "agentic systems lab",
+  "base": "India",
+  "loop": "research -> build -> validate -> ship"
 }
 ```
 
 </td>
-<td>
+<td width="33%" valign="top">
 
-| 🎯 | Core Skills |
-|:--:|:--|
-| 🧠 | Explainable AI (XAI) |
-| 👁️ | Computer Vision |
-| 📝 | NLP & NER |
-| 📈 | Time-Series Analysis |
-| 🌐 | 3D Web Graphics |
+### CURRENT VECTOR
+
+| Lane | Signal |
+|:--|:--|
+| Agentic DevTools | CLIs, skills, workflows |
+| AI Orchestration | MCP, swarms, evaluators |
+| Product Systems | Career ops, onboarding |
+| Learning Tech | Mental-model diagnostics |
 
 </td>
-<td>
+<td width="33%" valign="top">
 
-| 🔥 | Current Focus |
-|:--:|:--|
-| 🏥 | Healthcare AI |
-| 🐟 | Aquaculture Intelligence |
-| ⚖️ | Legal Tech NLP |
+### SHIP STYLE
+
+| Bias | Output |
+|:--|:--|
+| Deterministic loops | Less agent chaos |
+| Playwright checks | Real browser proof |
+| Typed contracts | Cleaner handoffs |
+| UX polish | Interfaces with pulse |
 
 </td>
 </tr>
@@ -69,436 +67,285 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   🏗️  ARCHITECTURES         🔧  TOOLS              📊  DOMAINS              ║
-║   ─────────────────         ─────────              ───────────               ║
-║   ▸ Ensemble Learning       ▸ Python/TS           ▸ Healthcare AI           ║
-║   ▸ Transformer Models      ▸ TensorFlow          ▸ AgriTech                ║
-║   ▸ Expert Systems          ▸ Three.js            ▸ Legal NLP               ║
-║   ▸ Neural Networks         ▸ FastAPI             ▸ 3D Visualization        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://img.shields.io/badge/💡_Philosophy-Building_AI_that_explains_itself-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="assets/orion-project-constellation.svg" alt="ORION2809 project constellation map" width="100%" />
 
 </div>
 
 ---
 
-<!-- TECH ARSENAL -->
-## 🎯 Tech Arsenal
-
-<details open>
-<summary><b>🧠 AI/ML & Data Science</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LIME-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>⚛️ Frontend & 3D Graphics</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>🔧 Backend & Tools</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-</details>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Latest Launch Bay
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🫀 XAI Tachycardia Detection
-<a href="https://github.com/ORION2809/XAI_Tachycardia-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ORION2809&repo=XAI_Tachycardia-&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e" width="100%"/>
+### Career-Ops
+
+<a href="https://github.com/ORION2809/carrer-ops">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-carrer-ops/ORION2809/carrer-ops" width="100%" alt="Career-Ops repository preview" />
 </a>
 
-**Explainable AI for Real-time Cardiac Health**
+**AI-powered job search command center**
 
-```
-🔬 Two-Lane Detection Architecture
-🧠 SHAP + LIME Explainability  
-📊 Multi-Dataset: MIT-BIH, PTB-XL
-🎯 98%+ Sensitivity on VT/VFL
-⚡ Calibrated Uncertainty Scoring
-```
+- Evaluates roles with structured fit scoring
+- Generates ATS-oriented CV variants
+- Scans Greenhouse, Ashby, Lever, and company portals
+- Tracks the pipeline through a Go terminal dashboard
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/SHAP-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
-</td>
 
+</td>
 <td width="50%" valign="top">
 
-### 🐟 Aquaculture AI
-<a href="https://github.com/ORION2809/Aquaculture-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ORION2809&repo=Aquaculture-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e" width="100%"/>
+### Prove-It-Mode
+
+<a href="https://github.com/ORION2809/Prove-It-Mode">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-prove-it-mode/ORION2809/Prove-It-Mode" width="100%" alt="Prove-It-Mode repository preview" />
 </a>
 
-**Intelligent Farm Management System**
+**Mental model stress tester**
 
-```
-🌊 7-Engine ML Pipeline
-📈 Growth & Yield Prediction
-🦠 Disease Detection & Treatment
-🎛️ Automated Feed Optimization
-🔍 Root Cause Analysis Engine
-```
+- Diagnoses hidden concept gaps before building
+- Uses plausible-but-wrong code traps
+- Replaces scoring with reflective diagnosis
+- Runs on React, Vite, Tailwind, and NVIDIA-backed AI
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </p>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Multilingual Transcription
-<a href="#">
-<img alt="Transcription Tool" src="https://dummyimage.com/400x120/0d1117/58a6ff.png&text=🎙️+Telugu-English+Transcriber" width="100%"/>
+### Claw Code
+
+<a href="https://github.com/ORION2809/claw-code">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-claw-code/ORION2809/claw-code" width="100%" alt="Claw Code repository preview" />
 </a>
 
-**AI-Powered Audio Processing**
+**Rust coding-agent CLI with multi-provider support**
 
-```
-🗣️ Telugu + English Code-Switching
-🎬 YouTube URL Direct Processing  
-📝 Triple Output Formats
-🔊 Whisper + GPT-4o Pipeline
-📁 Batch Processing Support
-```
+- Rust workspace for the `claw` CLI
+- Claude, Grok, and OpenAI-compatible flows
+- Plugin-aware tools, hooks, and permission features
+- Interactive REPL plus one-shot prompt mode
 
 <p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper-00A67E?style=flat-square"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Claude-6C47FF?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/CLI-020617?style=flat-square" alt="CLI" />
 </p>
-</td>
 
+</td>
 <td width="50%" valign="top">
 
-### 🌐 Aurora Aqua 3D Website
-<a href="#">
-<img alt="Aurora Aqua" src="https://dummyimage.com/400x120/0d1117/0891b2.png&text=🌊+Aurora+Aqua+3D+Experience" width="100%"/>
+### Claude Fulcrum
+
+<a href="https://github.com/ORION2809/claude-Fulcrum">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-claude-fulcrum/ORION2809/claude-Fulcrum" width="100%" alt="Claude Fulcrum repository preview" />
 </a>
 
-**Immersive 3D Web Experience**
+**Operating system for AI-powered development**
 
-```
-🎨 Three.js 3D Environments
-✨ GSAP Advanced Animations
-🐠 Interactive Fish Visualization
-📱 Responsive Particle Effects
-⚡ Vite-Powered Performance
-```
+- 26 agents, 122 skills, 66 commands
+- Shared memory across Claude Code, Codex, Cursor, and Copilot
+- Swarm orchestration, hooks, and quality gates
+- Design intelligence with searchable UI/UX systems
 
 <p>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Claude_Code-6C47FF?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex_CLI-020617?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI" />
+<img src="https://img.shields.io/badge/Design_Intelligence-0EA5E9?style=flat-square" alt="Design intelligence" />
 </p>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 3D Object Viewer
-<a href="#">
-<img alt="3D Viewer" src="https://dummyimage.com/400x120/0d1117/a855f7.png&text=🎮+AI+Image+to+3D+Converter" width="100%"/>
+### AI Onboarding Orchestrator
+
+<a href="https://github.com/ORION2809/ai-onboarding-orchestrator">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-ai-onboarding/ORION2809/ai-onboarding-orchestrator" width="100%" alt="AI Onboarding Orchestrator repository preview" />
 </a>
 
-**AI-Powered 2D to 3D Transformation**
+**Multi-agent employee onboarding system**
 
-```
-🤖 AI 3D Model Generation
-🖼️ Multi-View Projection Modes
-🎛️ Interactive Controls
-📐 Real-time Transformations
-🌈 Custom Texture Mapping
-```
+- Saga orchestration across HR, IT, payroll, and facilities
+- Express 5 plus Zod API surface
+- LLM gateway with provider failover
+- Audit trails, data lineage, chaos tests, and Prometheus metrics
 
 <p>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Vision-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square" alt="Zod" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
-</td>
 
+</td>
 <td width="50%" valign="top">
 
-### ⚖️ Legal NER System
-<a href="#">
-<img alt="Legal NER" src="https://dummyimage.com/400x120/0d1117/f97316.png&text=⚖️+InLegalNER+BERT+System" width="100%"/>
+### Agentic Orchestration Engine
+
+<a href="https://github.com/ORION2809/agentic-orchestration-engine">
+  <img src="https://opengraph.githubassets.com/ORION2809-command-deck-game-builder/ORION2809/agentic-orchestration-engine" width="100%" alt="Agentic Orchestration Engine repository preview" />
 </a>
 
-**Named Entity Recognition for Legal Docs**
+**Deterministic Agentic Game Builder**
 
-```
-📜 Indian Legal Document NER
-🏛️ 15+ Entity Types Support
-🔄 Data Augmentation Pipeline  
-📊 Template-Based Generation
-⚡ BERT Fine-tuning Ready
-```
+- Turns vague game ideas into playable HTML5 games
+- Uses Pydantic contracts and explicit state transitions
+- Validates with AST analysis plus Playwright runtime tests
+- Ships as an MCP server with Docker packaging
 
 <p>
-<img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NER-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square" alt="MCP" />
 </p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ARCHITECTURE SECTION -->
-## 🏗️ System Architectures
+## System Map
 
-<details>
-<summary><b>🫀 XAI Tachycardia - Two-Lane Detection</b></summary>
-<br>
+```mermaid
+flowchart LR
+  A["Research<br/>signals"] --> B["Typed<br/>plan"]
+  B --> C["Agentic<br/>build loop"]
+  C --> D["Browser<br/>validation"]
+  D --> E["Polished<br/>ship"]
+  E --> F["Reusable<br/>system"]
+  F --> B
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     ECG SIGNAL INPUT                                     │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   ┌──────────────┐    ┌──────────────┐    ┌──────────────┐               │
-│   │  Signal QC   │───▶│   Feature    │───▶│   Ensemble   │               │
-│   │   6-SQI      │    │  Extraction  │    │    Models    │               │
-│   └──────────────┘    └──────────────┘    └──────┬───────┘               │
-│                                                   │                      │
-│   ┌───────────────────────────────────────────────┴─────────────────┐   │
-│   │                     TWO-LANE ARCHITECTURE                        │   │
-│   ├─────────────────────────────┬───────────────────────────────────┤   │
-│   │     SENSITIVITY LANE        │       PRECISION LANE              │   │
-│   │  ┌─────────────────────┐    │    ┌─────────────────────┐        │   │
-│   │  │  Low Threshold      │    │    │  High Threshold     │        │   │
-│   │  │  Catch All VT/VFL   │    │    │  Reduce Alarms      │        │   │
-│   │  └─────────────────────┘    │    └─────────────────────┘        │   │
-│   └─────────────────────────────┴───────────────────────────────────┘   │
-│                                   │                                      │
-│                    ┌──────────────┴──────────────┐                      │
-│                    │    EXPLAINABILITY ENGINE     │                     │
-│                    │  ┌───────┐    ┌───────────┐ │                      │
-│                    │  │ SHAP  │    │   LIME    │ │                      │
-│                    │  └───────┘    └───────────┘ │                      │
-│                    └──────────────┬──────────────┘                      │
-│                                   │                                      │
-│                    ┌──────────────▼──────────────┐                      │
-│                    │   CLINICAL PRIORITY OUTPUT   │                     │
-│                    │   VT/VFL > SVT > Sinus Tachy │                     │
-│                    └─────────────────────────────┘                      │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-</details>
+  B --> G["Career-Ops"]
+  B --> H["Prove-It-Mode"]
+  C --> I["Claw Code"]
+  C --> J["Claude Fulcrum"]
+  D --> K["AI Onboarding"]
+  D --> L["Game Builder"]
 
-<details>
-<summary><b>🐟 Aquaculture AI - 7-Engine Pipeline</b></summary>
-<br>
-
+  classDef core fill:#020617,stroke:#22c55e,color:#f8fafc,stroke-width:2px;
+  classDef product fill:#0f172a,stroke:#06b6d4,color:#f8fafc,stroke-width:1px;
+  class A,B,C,D,E,F core;
+  class G,H,I,J,K,L product;
 ```
-                              ╔═══════════════════════════════════╗
-                              ║      AQUACULTURE AI ENGINE        ║
-                              ╚═══════════════════════════════════╝
-                                              │
-        ┌─────────────────────────────────────┼─────────────────────────────────────┐
-        │                                     ▼                                     │
-        │  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐            │
-        │  │  📡      │    │  🌊      │    │  📈      │    │  ⚠️       │            │
-        │  │ SENSORS  │───▶│   WQE    │───▶│   GPE    │───▶│   SRE    │            │
-        │  │          │    │ Water QC │    │  Growth  │    │ Survival │            │
-        │  └──────────┘    └────┬─────┘    └────┬─────┘    └────┬─────┘            │
-        │                       │               │               │                   │
-        │                       ▼               ▼               ▼                   │
-        │                  ┌──────────┐    ┌──────────┐    ┌──────────┐            │
-        │                  │  🦠      │    │  🍽️       │    │  🎯      │            │
-        │                  │   DME    │    │   FEE    │    │  YGPE   │            │
-        │                  │ Disease  │    │ Feeding  │    │  Yield  │            │
-        │                  └────┬─────┘    └────┬─────┘    └────┬─────┘            │
-        │                       │               │               │                   │
-        │                       └───────────────┼───────────────┘                   │
-        │                                       ▼                                   │
-        │                              ┌──────────────┐                            │
-        │                              │  🔍 RCRE     │                            │
-        │                              │  Root Cause  │                            │
-        │                              │  Analysis    │                            │
-        │                              └──────────────┘                            │
-        │                                       │                                   │
-        │                                       ▼                                   │
-        │                    ┌─────────────────────────────────┐                   │
-        │                    │   📋 ACTIONABLE RECOMMENDATIONS  │                   │
-        │                    └─────────────────────────────────┘                   │
-        └───────────────────────────────────────────────────────────────────────────┘
-```
-</details>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+## Stack Radar
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-22C55E?style=for-the-badge&labelColor=020617)
+
+</td>
+<td width="25%" valign="top">
+
+### Runtime
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-020617?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-020617?style=for-the-badge&logo=three.js&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### Proof
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&labelColor=020617)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Telemetry
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ORION2809&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ORION2809&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ORION2809&theme=dark&hide_border=true&background=050816&stroke=22c55e&ring=06b6d4&fire=f97316&currStreakLabel=22c55e" alt="GitHub streak stats" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ORION2809&bg_color=050816&color=22c55e&line=06b6d4&point=f97316&area=true&area_color=22c55e&hide_border=true&custom_title=ORION2809%20signal%20timeline" alt="GitHub contribution activity graph" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORION2809&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-## 🐍 Contribution Graph
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ORION2809/ORION2809/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ORION2809/ORION2809/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ORION2809/ORION2809/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ORION2809/ORION2809/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
 </picture>
 
----
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ORION2809&bg_color=0d1117&color=58a6ff&line=f0883e&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
-
----
-
-<!-- METRICS -->
-## 🎖️ Achievements & Metrics
-
-<div align="center">
-
-| Domain | Projects | Tech Highlights |
-|:------:|:--------:|:---------------:|
-| 🧠 **AI/ML** | 3+ | XAI, Ensemble Learning, BERT |
-| 🏥 **Healthcare** | 1 | ECG Analysis, Clinical AI |
-| 🌊 **AgriTech** | 2 | Aquaculture, IoT Integration |
-| 🌐 **3D/Web** | 3+ | Three.js, GSAP, WebGL |
-| 📜 **NLP** | 2 | NER, Transcription, Legal AI |
-
 </div>
 
 ---
 
-<!-- CONNECT -->
-## 🌐 Let's Connect
+## Older Signal Archive
 
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
+| Project | What it proved |
+|:--|:--|
+| [XAI Tachycardia](https://github.com/ORION2809/XAI_Tachycardia-) | Explainable cardiac-event detection with SHAP/LIME thinking |
+| [Aquaculture AI](https://github.com/ORION2809/aquaculture_ai) | Farm intelligence, predictive signals, and recommendation engines |
+| [3D Object View](https://github.com/ORION2809/3D_OBJECT_VIEW) | Browser-based 3D interaction experiments |
+| [Aqua Web 3D](https://github.com/ORION2809/aqua_web_3d) | Immersive aquaculture web experience |
+| [RLRAG](https://github.com/ORION2809/RLRAG-Cost-Aware-Retrieval-Depth-Control-for-Production-RAG) | Cost-aware retrieval-depth control for production RAG |
 
 ---
 
 <div align="center">
 
-### 💡 *"Building AI systems that don't just predict — they explain."*
+### Ship the loop. Prove the loop. Make the loop remember.
 
-<p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</p>
+<a href="https://github.com/ORION2809">
+  <img src="https://img.shields.io/badge/GitHub-ORION2809-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile" />
+</a>
+<a href="https://github.com/ORION2809/portfoliowebsite">
+  <img src="https://img.shields.io/badge/Portfolio-Source_Repo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="Portfolio source repository" />
+</a>
+<a href="https://github.com/ORION2809?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-Latest_Builds-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Latest repositories" />
+</a>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f766e,100:22c55e&height=110&section=footer" width="100%" alt="Neon footer wave" />
 
 </div>
-
-<!-- 
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   🛠️ SETUP INSTRUCTIONS FOR ANIMATED SNAKE GRAPH:                          ║
-║                                                                            ║
-║   1. Create a new repo with your username (e.g., ORION2809/ORION2809)      ║
-║   2. Add this workflow file: .github/workflows/snake.yml                    ║
-║                                                                            ║
-║   ┌────────────────────────────────────────────────────────────────────┐   ║
-║   │ name: Generate Snake                                               │   ║
-║   │ on:                                                                │   ║
-║   │   schedule:                                                        │   ║
-║   │     - cron: "0 */12 * * *"                                        │   ║
-║   │   workflow_dispatch:                                               │   ║
-║   │ jobs:                                                              │   ║
-║   │   build:                                                           │   ║
-║   │     runs-on: ubuntu-latest                                         │   ║
-║   │     steps:                                                         │   ║
-║   │       - uses: Platane/snk@v3                                       │   ║
-║   │         with:                                                      │   ║
-║   │           github_user_name: ${{ github.repository_owner }}         │   ║
-║   │           outputs: |                                               │   ║
-║   │             dist/github-contribution-grid-snake.svg                │   ║
-║   │             dist/github-contribution-grid-snake-dark.svg?palette=github-dark │   ║
-║   │       - uses: crazy-max/ghaction-github-pages@v4                   │   ║
-║   │         with:                                                      │   ║
-║   │           target_branch: output                                    │   ║
-║   │           build_dir: dist                                          │   ║
-║   │         env:                                                       │   ║
-║   │           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                │   ║
-║   └────────────────────────────────────────────────────────────────────┘   ║
-║                                                                            ║
-║   3. Run the workflow manually once, then it auto-updates every 12hrs      ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
--->
